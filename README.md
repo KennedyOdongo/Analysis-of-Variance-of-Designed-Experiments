@@ -1,0 +1,1 @@
+This is repo contains SAS code for analysis of variance of designed experiments methods, including but not limited to:Latin Square designs,repeated measures experiments,Nested designs,split plot designs,complete block designs,data transfromation experiments,blocking,random and fixed factors e.t.c
